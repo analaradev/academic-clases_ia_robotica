@@ -7,7 +7,7 @@ import math
 
 # --- CONFIGURACION ---
 # Ruta local del modelo (mismo archivo que se uso en clase)
-MODEL_PATH = "hand_landmarker.task"
+MODEL_PATH = "ejemplo/hand_landmarker.task"
 
 # --- CONSTANTES ---
 BaseOptions = mp.tasks.BaseOptions
