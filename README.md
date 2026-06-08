@@ -1,26 +1,46 @@
-# academic-clases_ia_robotica
+# Inteligencia Artificial y Robotica
 
-Repositorio académico relacionado con clases, prácticas o materiales de inteligencia artificial y robótica.
+<div align="center">
 
-## Categoría
+![Academic](https://img.shields.io/badge/Tipo-Academico-6f42c1?style=for-the-badge)
+![IA](https://img.shields.io/badge/Area-Inteligencia%20Artificial-0ea5e9?style=for-the-badge)
+![Robotica](https://img.shields.io/badge/Area-Robotica-f97316?style=for-the-badge)
+![Estado](https://img.shields.io/badge/Estado-Finalizado-22c55e?style=for-the-badge)
 
-`academic-` — materiales escolares/universitarios.
+**Evidencia academica finalizada para la clase de Inteligencia Artificial y Robotica.**
 
-## Descripción
+</div>
 
-Este repositorio conserva archivos, prácticas o evidencias relacionadas con temas de IA, robótica o actividades académicas asociadas.
+---
 
-## Objetivos
+## Contexto Academico
 
-- Organizar materiales académicos.
-- Conservar prácticas y evidencias.
-- Explorar conceptos de IA o robótica.
-- Documentar avances de aprendizaje.
+Este repositorio conserva materiales, practicas y evidencias desarrolladas como parte de la materia de **Inteligencia Artificial y Robotica**.
+
+El objetivo principal fue explorar conceptos relacionados con IA, automatizacion, logica de decision y fundamentos aplicados a sistemas roboticos o inteligentes.
+
+## Proposito del Repositorio
+
+- Organizar evidencias academicas finalizadas.
+- Conservar practicas y materiales de clase.
+- Documentar ejercicios relacionados con IA y robotica.
+- Mantener una referencia del trabajo realizado durante la materia.
+
+## Temas Relacionados
+
+![AI](https://img.shields.io/badge/Inteligencia%20Artificial-111827?style=flat-square&logo=openai&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotica-2563eb?style=flat-square)
+![Algorithms](https://img.shields.io/badge/Algoritmos-7c3aed?style=flat-square)
+![Academic Work](https://img.shields.io/badge/Evidencia%20Academica-16a34a?style=flat-square)
+
+## Categoria
+
+`academic-` - repositorios de trabajos, practicas, proyectos y evidencias universitarias ya finalizadas.
 
 ## Estado
 
-Repositorio académico.
+Proyecto academico finalizado y conservado como evidencia de aprendizaje.
 
 ## Nota
 
-Antes de publicar, revisar que los archivos no contengan datos personales o materiales que no deban compartirse.
+Antes de reutilizar o publicar contenido derivado, revisar que no incluya datos personales, archivos sensibles o material que no deba compartirse publicamente.
